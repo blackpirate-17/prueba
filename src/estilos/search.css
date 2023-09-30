@@ -1,0 +1,47 @@
+.body {
+  width: auto;
+  height: auto;
+  background-color: #8ebf42;
+  margin-top: 30px;
+  border: 4px double #6D6D6D;
+  padding-bottom: 40px;
+  }
+
+  .body img{
+    display: block;
+  align-items: center;
+  justify-content: center;
+    width: 40px;
+    height: 40px;
+
+    margin: auto;
+    border-radius: 50%;
+    }
+
+    .body button{
+   
+      border-radius: 50%;
+      }
+
+.h2{
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
+    margin-left: auto;
+    border: 0;
+    font-size: 20px;
+    width: 70%;
+  }
+
+
+.search {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
+    margin: auto;
+    border: 0;
+    font-size: 20px;
+    width: 70%;
+  }
